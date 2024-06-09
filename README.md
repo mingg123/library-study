@@ -17,4 +17,4 @@ valtio - us
 
 ### 3회차 (06/09)
 
-[BullMQ](https://www.notion.so/BullMQ-82fd8fe85f3f4e408f88f5d99a5fcbf9) - mj
+[BullMQ](https://big-frown-d91.notion.site/BullMQ-82fd8fe85f3f4e408f88f5d99a5fcbf9?pvs=4) - mj
