@@ -12,9 +12,11 @@
 
 [graphql](https://big-frown-d91.notion.site/graphql-57444410b91d446297c0bd4a6d125ac2?pvs=4) - mj
 
-valtio - us
+[valtio](https://impossible-couch-0e7.notion.site/Valtio-64c5f864df594178ae9a79c5f2672cf9?pvs=4) - us
 
 
 ### 3회차 (06/09)
 
 [BullMQ](https://big-frown-d91.notion.site/BullMQ-82fd8fe85f3f4e408f88f5d99a5fcbf9?pvs=4) - mj
+
+[valtio](https://impossible-couch-0e7.notion.site/Valtio-64c5f864df594178ae9a79c5f2672cf9?pvs=4) - us
